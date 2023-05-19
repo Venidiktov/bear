@@ -1,4 +1,4 @@
-!! Автор скрипта PLushkin https://t.me/plushkin_blog        
+      
 
 
 1. перед запуском добавьте приватные ключи в private_keys.txt
